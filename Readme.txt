@@ -10,6 +10,7 @@ Before running the system, please ensure the following steps are completed:
 
 2.Input Folder:
   -Place all traffic sign images into the folder Inputs/Traffic signs/.
+  - you can get sample images used from this link: https://drive.google.com/file/d/1X2RxqYbfGs3uZDoBjRUasWaqoPYMEyZx/view?usp=sharing
   -Ensure the images are in .png format, as the program specifically processes .png files.
 
 3.Correct Image Format:
